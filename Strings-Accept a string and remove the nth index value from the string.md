@@ -1,5 +1,5 @@
-<img width="685" height="142" alt="image" src="https://github.com/user-attachments/assets/f69d4149-b3bb-405a-8e1d-8a7c08406c1a" /># Module-3
-# 🧹 Strings-Remove Nth Index Character from a String
+
+# Strings-Remove Nth Index Character from a String
 
 ## 🎯 Aim
 To write a Python program that accepts a string and removes the character at a specified index.
